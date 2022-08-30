@@ -1,4 +1,4 @@
-## Hi 👋! I'm Yago Batista 🌌
+## Hi! I'm Yago Batista 🌌
 
 - 📌 Procurando estágio em dev front-end
 - 🎓 Estudando JS,HTMl e CSS
