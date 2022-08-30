@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=wa.me/5592988484342"/></a>
   
   <a href="#" alt="Discord">
-  https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="">
   </a>
 
   <a href="#" alt="Instagram">
