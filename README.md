@@ -1,4 +1,4 @@
-## Hi! i'm Yago 🌌
+## Hi 👋, I'm Yago
 
 - 📌 Procurando estágio em dev front-end
 - 🎓 Estudando JS,HTMl e CSS
