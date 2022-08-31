@@ -1,11 +1,5 @@
 ##  Hi! I'm Yago 👋
 
-<div align="center">
-  <a href="https://github.com/qpenta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qpenta&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpenta&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
@@ -51,6 +45,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qpenta&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpenta&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
