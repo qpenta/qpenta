@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, atualmente minha meta é conseguir um estágiio em <strong>Front-end</strong>.<br>
+  Olá, atualmente minha meta é conseguir um estágio em <strong>Front-end</strong>.<br>
   Procurando sempre uma <strong>meta</strong
   > nova para concluir.
 </p>
