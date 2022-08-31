@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Olá, atualmente minha meta é conseguir um estágio em desenvolvedor <strong>Front-end</strong>.<br>
-  Procurando sempre uma <strong>meta</strong
+  Sempre procurando uma <strong>meta</strong
   > nova para concluir.
 </p>
 
