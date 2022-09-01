@@ -30,7 +30,7 @@
   <a href="https://wa.me/5592988484342" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   
-  <a href="#" alt="Discord">
+  <a href="discordapp.com/users/𝐩𝐞𝐧𝐭𝐚#0270" alt="Discord">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="">
   </a>
 
