@@ -62,4 +62,6 @@
   <img align="center" alt="qpenta-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
+
+![snake gif](https://github.com/qpenta/qpenta/blob/output/github-contribution-grid-snake.svg)
   
