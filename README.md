@@ -63,4 +63,4 @@
   
 </div>
   
-  ![snake gif](https://github.com/qpenta/qpenta/blob/output/github-contribution-grid-snake.svg)
+  
