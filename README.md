@@ -1,6 +1,6 @@
 ##  Hi! I'm Yago 👋
 
-<img src="https://github.com/qpenta/qpenta/blob/main/perfeitooogifpenta.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador qpenta">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador qpenta">
 
 <p align="left"> 
   Olá, atualmente minha meta é conseguir um estágio em desenvolvedor <strong>Front-end</strong>.<br>
@@ -29,7 +29,7 @@
 
   <a href="https://wa.me/5592988484342" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <br>
+  
   <a href="encurtador.com.br/agjNT" alt="Discord">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="">
   </a>
@@ -46,8 +46,8 @@
 
 <div align="center">
   <a href="https://github.com/qpenta">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=qpenta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpenta&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=qpenta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpenta&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <br>
