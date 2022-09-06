@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Vs Code, CodePen.</strong>
+  💼 Ferramentas: <strong>Vs Code e CodePen.</strong>
 </p>
 
 <p align="left">
