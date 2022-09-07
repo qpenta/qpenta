@@ -1,4 +1,4 @@
-##  Hi! I'm Yago 👋
+##  Hi! I'm Yago 👋🔮
 
 <img src="https://github.com/qpenta/qpenta/blob/main/perfeitooogifpenta.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador qpenta">
 
