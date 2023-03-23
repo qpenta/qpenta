@@ -45,6 +45,7 @@
 </p>  
   
   ![qpenta GitHub stats](https://github-readme-stats.vercel.app/api?username=qpenta&show_icons=true&theme=synthwave)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpenta&hide_progress=true)](https://github.com/qpenta/github-readme-stats)
 
 <br><br>
 
