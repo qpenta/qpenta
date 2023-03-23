@@ -44,8 +44,12 @@
 
 </p>  
   
-  ![qpenta GitHub stats](https://github-readme-stats.vercel.app/api?username=qpenta&show_icons=true&theme=synthwave)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpenta&hide_progress=true)](https://github.com/qpenta/github-readme-stats)
+  <div align="center">
+  <a href="https://github.com/qpenta">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=qpenta&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpenta&theme=synthwave&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 <br><br>
 
