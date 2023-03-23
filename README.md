@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a 
 
 </p>  
-  <br><br>
+  <br><br><br>
   
   <div align="center">
   <a href="https://github.com/qpenta">
