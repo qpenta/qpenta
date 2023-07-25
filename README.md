@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, Html, Css, Node, TypeScript.</strong>
+  🦄 Linguagens: <strong>JavaScript,TypeScript.</strong>
 </p>
 
 <p align="left">
